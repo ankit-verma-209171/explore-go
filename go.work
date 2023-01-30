@@ -6,4 +6,6 @@ use (
 	./03userinput
 	./04conversions
 	./05times
+	./06pointers
+	./07arrays
 )
